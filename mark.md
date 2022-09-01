@@ -50,6 +50,6 @@ int main()
          - Eight
 <br/>
 <!-- ![great](./Pictures/Wallpapers/kali.png) -->  
-<img src="./Pictures/Wallpapers/kali.png" width="200" height="100"/> <br/>     
+<img src="./Pictures/Wallpapers/kali.PNG" width="200" height="100"/> <br/>     
 
 [Check On Youtube](https://youtube.com)
